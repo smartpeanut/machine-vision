@@ -1,0 +1,14 @@
+.\obj\usart2.o: ..\BSP\usart2.c
+.\obj\usart2.o: ..\BSP\usart2.h
+.\obj\usart2.o: D:\Study\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\usart2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\usart2.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\usart2.o: D:\Study\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\usart2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\usart2.o: ..\USER\stm32f10x_conf.h
+.\obj\usart2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\usart2.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\usart2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\usart2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\usart2.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\usart2.o: ..\BSP\usart.h
